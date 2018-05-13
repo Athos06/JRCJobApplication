@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1474102157277522}
+  m_IsPrefabParent: 1
+--- !u!1 &1474102157277522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4044812662059820}
+  - component: {fileID: 114972936075783084}
+  - component: {fileID: 82327399232671652}
+  m_Layer: 0
+  m_Name: DialogSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4044812662059820
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1474102157277522}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 289.11667, y: 170.32329, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82327399232671652
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1474102157277522}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 243713367836781866, guid: f1b8cad69c9c3e94b8b901a4f5ac1207,
+    type: 2}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &114972936075783084
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1474102157277522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 565fd263440bd45fa9ba0925c60f54f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startOnAwake: 0
+  showWithDialog:
+  - {fileID: 0}
+  textUI: {fileID: 0}
+  dialoger: 1
+  dialogerUI: {fileID: 0}
+  shouldFollow: 0
+  follow: []
+  billboard: 1
+  mainCamera: 1
+  otherCamera: {fileID: 0}
+  txtToParse: {fileID: 4900000, guid: 0148d394f7375d9469f49bec717e5e71, type: 3}
+  enableQuickSkip: 1
+  callbackScript: {fileID: 0}
+  callback:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  callbackFunction: 
+  animatorWhenTalking: {fileID: 0}
+  animatorBooleanName: 
+  animatorIntName: 
+  cutscenePosition: 0
+  textSpeed: 50
+  currentChar: 0
+  blinkWhenReady: {fileID: 0}
+  EndDialogIcon: {fileID: 0}
+  variables: []
+  shouldUsePhotos: 1
+  photos:
+  - name: <color="#d64b46">Jorge</color>
+    photo: {fileID: 21300000, guid: 8cbc72c0b05464e46aa2d94e7182a3b5, type: 3}
+  - name: <color="#489ac2">Recepcionist</color>
+    photo: {fileID: 21300002, guid: 8cbc72c0b05464e46aa2d94e7182a3b5, type: 3}
+  - name: <color="#58b861">SomePixelGuy</color>
+    photo: {fileID: 21300006, guid: 8cbc72c0b05464e46aa2d94e7182a3b5, type: 3}
+  - name: <color="#465b87">Interviewer</color>
+    photo: {fileID: 21300004, guid: 8cbc72c0b05464e46aa2d94e7182a3b5, type: 3}
+  UIPhoto: {fileID: 0}
+  shouldStayOnScreen: 0
+  textAudio: {fileID: 8300000, guid: 49c855462770641229c932e59dd505e5, type: 3}
+  passAudio: {fileID: 8300000, guid: a8b5ae316e8c14602bc3114d2d5e8302, type: 3}
+  choiceAudio: {fileID: 8300000, guid: a8b5ae316e8c14602bc3114d2d5e8302, type: 3}
+  rpgAudioSorce: {fileID: 82327399232671652}
+  passWithMouse: 1
+  passWithInputButton: 
+  enablePass: 1
+  lineToStart: 1
+  lineToBreak: -1
+  wordWrap: 1
+  maxCharInWidth: 50
+  maxCharInHeight: 2
+  sprites: []
+  spritesUsed: []
+  actualTextSpeed: 0
+  isPlaying: 0
+  choicePrefab: {fileID: 1138067995663724, guid: ffc3ff1405159ff42a1e0ae333a4e4ea,
+    type: 2}
+  choicesParent: {fileID: 0}

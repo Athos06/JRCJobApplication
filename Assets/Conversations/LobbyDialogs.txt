@@ -1,0 +1,27 @@
+<color="#d64b46">Jorge</color>: Hi! I'm Jorge, I'm here for an interview.
+<color="#489ac2">Recepcionist</color>: Hi Jorge, welcome! We were looking forward to meeting you.
+<color="#489ac2">Recepcionist</color>: You are a bit early, you could look around if you want.
+<color="#489ac2">Recepcionist</color>: [question=0]Or should I call them right now?
+[choice]I want to go to the interview
+[choice]I want to look around first
+<color="#489ac2">Recepcionist</color>: They will be ready for you in a moment.
+<color="#d64b46">Jorge</color>: Thanks.
+<color="#489ac2">Recepcionist</color>: Ok, talk to me when you are ready.
+<color="#489ac2">Recepcionist</color>: [question=1]Are you ready to continue now?
+[choice]Yes
+[choice]Not yet
+<color="#465b87">Interviewer</color>: Hi Jorge! Welcome to Pixel Federation.
+<color="#d64b46">Jorge</color>: Hi, thanks! It's really great to be here.
+<color="#465b87">Interviewer</color>: [question=2]Are you ready to start the interview?
+[choice]Yes
+[choice]Absolutely!
+<color="#465b87">Interviewer</color>: Let's start by looking at your CV.
+<color="#465b87">Interviewer</color>: Let's see...
+<color="#465b87">Interviewer</color>: Oh, you say that you are really passionate about creating games.
+<color="#465b87">Interviewer</color>: What do you love the most about it?
+<color="#d64b46">Jorge</color>: It's a very special feeling to create something, different new worlds and stories that you can later share with others.
+<color="#465b87">Interviewer</color>: I see you really love it.
+<color="#465b87">Interviewer</color>: And you will need it because Game development is really challenging and you have to put many different skills into use...
+<color="#465b87">Interviewer</color>: Ok, lets move on to something else.
+<color="#58b861">PixelGuy</color>: Isn't all this cool?
+

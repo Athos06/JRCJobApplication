@@ -1,0 +1,6 @@
+<color="#465b87">Interviewer</color>: Thanks for coming in today Jorge it was really nice to have you.
+<color="#d64b46">Jorge</color>: Thanks for having me.
+<color="#465b87">Interviewer</color>: We will be in contact and we will let you know.
+<color="#d64b46">Jorge</color>: I'm looking forward to hearing from you.
+<color="#465b87">Interviewer</color>: See you.
+<color="#d64b46">Jorge</color>: See you.

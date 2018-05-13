@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: d0f1a4f2480820c41a2cf9d181f396e8
+timeCreated: 1525781902
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BallistaProyectile
+    100002: Cube
+    100004: Cube.001
+    100006: Cube.002
+    100008: Cube.003
+    100010: Cube.004
+    100012: Cube.005
+    100014: Cube.006
+    100016: Cube.007
+    100018: Cylinder
+    100020: fixedBody
+    100022: Mounting_2
+    100024: MovingDish
+    100026: Plane.001
+    100028: ShipEnemyMedium
+    100030: Terrain
+    100032: TowerBallistaBase
+    100034: TowerBallistaBase.001
+    100036: TowerBallistaHead
+    100038: //RootNode
+    100040: UFOgunBase
+    100042: UFOgunHead
+    100044: MovingDish.001
+    100046: LightGreen
+    100048: LightPink
+    400000: BallistaProyectile
+    400002: Cube
+    400004: Cube.001
+    400006: Cube.002
+    400008: Cube.003
+    400010: Cube.004
+    400012: Cube.005
+    400014: Cube.006
+    400016: Cube.007
+    400018: Cylinder
+    400020: fixedBody
+    400022: Mounting_2
+    400024: MovingDish
+    400026: Plane.001
+    400028: ShipEnemyMedium
+    400030: Terrain
+    400032: TowerBallistaBase
+    400034: TowerBallistaBase.001
+    400036: TowerBallistaHead
+    400038: //RootNode
+    400040: UFOgunBase
+    400042: UFOgunHead
+    400044: MovingDish.001
+    400046: LightGreen
+    400048: LightPink
+    2100000: No Name
+    2100002: Lowpoly
+    2100004: DecalLogo
+    2100006: Orange.3
+    2100008: VertexColor
+    2300000: BallistaProyectile
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Cube.004
+    2300012: Cube.005
+    2300014: Cube.006
+    2300016: Cube.007
+    2300018: Cylinder
+    2300020: fixedBody
+    2300022: Mounting_2
+    2300024: MovingDish
+    2300026: Plane.001
+    2300028: ShipEnemyMedium
+    2300030: Terrain
+    2300032: TowerBallistaBase
+    2300034: TowerBallistaBase.001
+    2300036: TowerBallistaHead
+    2300038: UFOgunBase
+    2300040: UFOgunHead
+    2300042: MovingDish.001
+    2300044: LightGreen
+    2300046: LightPink
+    3300000: BallistaProyectile
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Cube.004
+    3300012: Cube.005
+    3300014: Cube.006
+    3300016: Cube.007
+    3300018: Cylinder
+    3300020: fixedBody
+    3300022: Mounting_2
+    3300024: MovingDish
+    3300026: Plane.001
+    3300028: ShipEnemyMedium
+    3300030: Terrain
+    3300032: TowerBallistaBase
+    3300034: TowerBallistaBase.001
+    3300036: TowerBallistaHead
+    3300038: UFOgunBase
+    3300040: UFOgunHead
+    3300042: MovingDish.001
+    3300044: LightGreen
+    3300046: LightPink
+    4300000: UFOgunHead
+    4300002: UFOgunBase
+    4300004: fixedBody
+    4300006: MovingDish
+    4300008: TowerBallistaBase.001
+    4300010: Cube.007
+    4300012: BallistaProyectile
+    4300014: TowerBallistaHead
+    4300016: TowerBallistaBase
+    4300018: Cube.006
+    4300020: Cube.005
+    4300022: Cube.004
+    4300024: ShipEnemyMedium
+    4300026: Cube.003
+    4300028: Cube.002
+    4300030: Plane.001
+    4300032: Cube.001
+    4300034: Cylinder
+    4300036: Cube
+    4300038: Mounting_2
+    4300040: Terrain
+    4300042: MovingDish.001
+    4300044: LightGreen
+    4300046: LightPink
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

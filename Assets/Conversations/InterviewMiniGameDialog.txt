@@ -1,0 +1,14 @@
+<color="#465b87">Interviewer</color>: In game development there are various tools and technologies that you have to master.
+<color="#465b87">Interviewer</color>: Let's see what is your knowledge of modern game engines.
+<color="#d64b46">Jorge</color>: I have been working with unity for some time in different personal projects
+<color="#465b87">Interviewer</color>: Well done! That's a good skill to have.
+<color="#465b87">Interviewer</color>: now I want to know if you would be ready to face programming challenges that will arise.
+<color="#d64b46">Jorge</color>: I have worked with C++ with Ogre in the past and in C# with Unity. 
+<color="#465b87">Interviewer</color>: Great job!
+<color="#465b87">Interviewer</color>: Sometimes challenges can arise when your individual skills, however good they are, are simply not enough.
+<color="#465b87">Interviewer</color>: For example, a game that you have been working on for some time could even be canceled.
+<color="#465b87">Interviewer</color>: Even with lot of preparation there will be challenges that will be too much.
+<color="#d64b46">Jorge</color>: What we can do in those moments is to learn from the failures and keep going, working together to improve for the next projects.
+<color="#465b87">Interviewer</color>: That's how it is done!
+<color="#465b87">Interviewer</color>: That will be it for now
+<color="#465b87">Interviewer</color>: Well, that wasn't good enough, you can try harder.
